@@ -2,6 +2,8 @@
 
 # 🚀 Cursor Helper Commands  
 
+<img width="1199" height="307" alt="Image" src="https://github.com/user-attachments/assets/d75c8948-7f45-4b71-8909-ae073beb8579" />
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/yuaotian/go-cursor-help?style=for-the-badge&logo=github) ![GitHub repo size](https://img.shields.io/github/repo-size/yeongpin/cursor-free-vip?style=for-the-badge&color=blueviolet) ![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?style=for-the-badge&logo=apple) ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 A curated set of handy commands to fix common issues and enhance your **Cursor** experience.  
