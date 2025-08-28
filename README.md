@@ -42,4 +42,4 @@ sudo chown -R $(whoami) "/Users/hardikchhipa/Library/Application Support/Cursor"
 ```
 
 ✔️ Fixes permission errors when Cursor cannot write data.
-👤 Gives ownership back to your user account.
+👤 Change it as per your directory.
