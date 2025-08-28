@@ -1,1 +1,43 @@
-# Cursor_hack
+<div align="center">
+
+# 🚀 Cursor Helper Commands  
+
+![GitHub last commit](https://img.shields.io/github/last-commit/yuaotian/go-cursor-help?style=for-the-badge&logo=github) ![GitHub repo size](https://img.shields.io/github/repo-size/yeongpin/cursor-free-vip?style=for-the-badge&color=blueviolet) ![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?style=for-the-badge&logo=apple) ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+A curated set of handy commands to fix common issues and enhance your **Cursor** experience.  
+Each command is provided with its source and usage. Use them responsibly.  
+
+</div>
+
+---
+
+## 📌 1. Modify Cursor Mac ID  
+**Origin:** [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)  
+
+```bash
+curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh -o ./cursor_mac_id_modifier.sh && sudo bash ./cursor_mac_id_modifier.sh && rm ./cursor_mac_id_modifier.sh
+
+
+```
+## 📌 2. Install Cursor Free VIP  
+
+**Origin:** [cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)  
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+```
+
+✔️ Installs the Cursor Free VIP package.
+🔧 Makes setup painless with a single script.
+
+
+## 📌 3. Fix Permission Issues  
+
+**Origin:** Local workaround  
+
+```bash
+sudo chown -R $(whoami) "/Users/hardikchhipa/Library/Application Support/Cursor"
+```
+
+✔️ Fixes permission errors when Cursor cannot write data.
+👤 Gives ownership back to your user account.
