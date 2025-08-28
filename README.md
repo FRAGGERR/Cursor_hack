@@ -41,5 +41,18 @@ curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scrip
 sudo chown -R $(whoami) "/Users/hardikchhipa/Library/Application Support/Cursor"
 ```
 
-✔️ Fixes permission errors when Cursor cannot write data.
-👤 Change it as per your directory.
+Notes:
+- Replace the username in the path if this is being used on another Mac.
+- Close Cursor before running this, then reopen it.
+
+---
+
+## 🛠️ Troubleshooting
+- If a script fails with a network error, try again on a stable connection or use a different network.
+- For `permission denied`, prepend `sudo` where appropriate or ensure the script is executable (`chmod +x <file>`).
+- After system-level changes, a reboot can resolve lingering issues.
+
+---
+
+## ⚠️ Disclaimer
+These commands are provided as-is. Review and understand each script before executing, especially those requiring `sudo`. Proceed at your own risk.
